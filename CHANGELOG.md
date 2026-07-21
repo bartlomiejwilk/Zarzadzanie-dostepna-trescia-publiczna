@@ -4,6 +4,17 @@ Wszystkie istotne zmiany w podręczniku powinny być opisywane w tym pliku.
 
 Format opiera się na prostym podziale na wersje robocze i daty zmian. Do czasu wydania wersji 1.0 zmiany są traktowane jako prace przygotowawcze.
 
+## 0.1.1 - 2026-07-21
+
+### Zmieniono
+
+- Dopracowano słownik pojęć jako praktyczny rozdział poradnika z definicjami, znaczeniem praktycznym, powiązanymi pojęciami i odsyłaczami do Encyklopedii dostępności cyfrowej w Labie.
+- Usunięto pola bez realnej wartości redakcyjnej: słownik nie zawiera pustych aliasów ani martwych odsyłaczy do Encyklopedii.
+- Dodano brakujące pojęcia używane w podręczniku, w tym role, rejestry, procesy, formaty i pojęcia dostępnościowe.
+- Zachowano autorstwo Bartłomieja Wilka oraz informację o opracowaniu Lab Dostępności.
+- Wskazano Lab Dostępności jako publiczną i kanoniczną wersję poradnika.
+- Oznaczono techniczny podgląd GitHub Pages jako `noindex, follow`, aby ograniczyć duplikację treści względem Labu.
+
 ## 0.1.0 - wersja robocza
 
 ### Dodano

@@ -2,9 +2,15 @@
 
 Repozytorium zawiera źródła podręcznika **Zarządzanie dostępną treścią publiczną**.
 
-Podgląd online:
+Publiczna i kanoniczna wersja poradnika jest publikowana w Lab Dostępności:
+
+<https://labdostepnosci.pl/poradniki/zarzadzanie-dostepna-trescia-publiczna/>
+
+Techniczny podgląd źródeł w GitHub Pages:
 
 <https://bwilk-umjaslo.github.io/Zarzadzanie-dostepna-trescia-publiczna/>
+
+Podgląd GitHub Pages służy kontroli źródeł i nie powinien konkurować z wersją opublikowaną w Labie. W konfiguracji mdBook dodano `noindex, follow` dla wygenerowanych stron HTML.
 
 ## Cel projektu
 
